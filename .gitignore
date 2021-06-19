@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+
+src/resources/embedding_mat.pkl
+src/resources/text_cnn_v1.pth
